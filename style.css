@@ -21,6 +21,14 @@
 fff#footer .widget-title.do:before{font-family:'FontAwesome';color:#dd2c00;content:"\f0c9";position:absolute;right:0px;top:0px;}
 #footer .widget-title.do:hover:before{color:#dd2c00;}
 #footer .widget-title.do:hover .text-info{color:#dd2c00;}
-
-
-gdgdfgfdg
+.widget_shopping_cart .buttons {
+    margin: 2% 2%;
+    padding: 15px 0 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .widget_shopping_cart .buttons .button {
+    margin: 2% 2% 5px;
+    padding: 5px 7px;
+    float: left;
+  }
